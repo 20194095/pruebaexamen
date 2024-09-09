@@ -1,0 +1,129 @@
+
+.cuerpo header{
+    background-color: yellow;
+    height: 42px;
+}
+.cuerpo nav{
+    display:flex;
+    background-color: #dddd;
+    height: 60px;
+}
+.imgtailoy{
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 10px;
+}
+.imgcategorias{
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 40px;
+    margin-bottom: 5px;
+}
+.cuerpo nav input{
+    width: 750px;
+    margin-top: 12px;
+    height: 30px;
+    border-radius:25px;
+}
+.imgcarrito{
+    margin-top: 5px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 10px;
+}
+.cuerpo nav h1{
+    font-size: 10px;
+    color: green;
+}
+.cuerpo nav h1 span{
+    font-size: 20px;
+    padding-left: 5px;
+}
+.imgsesion{
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.seccion1{
+    background-color: #dddd;
+    border-top: 1px solid black;
+
+}
+.navegador1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+}
+.navegador1 li{
+    list-style: none;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+
+}
+.seccion2{
+    background-color: green;
+    height: 30px;
+}
+.navegador2{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.navegador2{
+    padding-right: 5px;
+    padding-left: 4px;
+    margin-top: 0px;
+}
+.navegador2 li{
+    font-size: 13px;
+    padding-top: 5px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.imagenbanner img{
+    width: 1325px;
+}
+.final{
+    background-color: aquamarine;
+    width: 1325px;
+    height: 1000px;
+}
+.final h1{
+    padding-top: 40px;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-left: 500px;
+    font-size: 40px;
+}
+.contenedor{
+    display: flex;
+    background-color: white;
+    margin-left: 150px;
+    padding: 10px;
+    margin-bottom: 170px;
+    width: 1030px;
+    height: 700px;
+}
+.contenedor article{
+    padding: 10px;
+}
+.parte1{
+    width: 230px;
+
+}
+.div1{
+    display: flex;
+}
+.imagencambiar{
+    width: 485px;
+}
